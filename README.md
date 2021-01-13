@@ -28,8 +28,4 @@ To build your project for deployment, input the following command:
  - Make sure your necessary files are in the src folder!  
  - Make sure your paths(links) are updated after your files have moved!  
  - In your project's root folder, using the command line, type "npm start"   
- - Somewhere in your resulting code, you should see "Project is running at (localhost url) -> simply go to that http link to see your live app!  
-
-### Liked this repo? Let's connect!  
-
-[jennabot5000](https://linktr.ee/jenna.chestnut)
+ - Somewhere in your resulting code, you should see "Project is running at (localhost url) -> simply go to that http link to see your live app!
